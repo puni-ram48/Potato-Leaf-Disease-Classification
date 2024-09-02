@@ -10,7 +10,7 @@ Agriculture is at the heart of global food security, and harnessing technology i
 
 ## 📦 Datasets
 
-The dataset used in this project is sourced from [Kaggle](https://www.kaggle.com/datasets/pankajkumar0107/potato-diseases-dataset) and includes images of potato leaves categorized into:
+The dataset used in this project is sourced from [Kaggle](https://www.kaggle.com/datasets/arjuntejaswi/plant-village)) and includes images of potato leaves categorized into:
 - 🌿 **Healthy**
 - 🌱 **Early Blight**
 - 🍂 **Late Blight**
